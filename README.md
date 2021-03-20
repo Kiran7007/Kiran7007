@@ -9,5 +9,5 @@
 <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linked in" width="30" height="30">
 </a>
 <a href="https://www.instagram.com/kiran.punwatkar/">
-<img src="https://i.pinimg.com/originals/72/a3/d9/72a3d9408d41335f39e9f014dc35cf44.jpg" alt="Instagram" width="30" height="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram" width="30" height="30">
 </a>
