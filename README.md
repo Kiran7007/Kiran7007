@@ -1,28 +1,29 @@
 <h1 align="center">Hi 👋, I'm Kiran</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Android+Engineer;Kotlin+%7C+Flutter+Developer;Clean+Architecture+Advocate;Performance+Optimizer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Android+Engineer;Kotlin+%7C+Flutter+Developer;Scalable+Mobile+Systems;Performance+%26+Reliability+Focused&center=true&width=500&height=45">
 </p>
 
-<h3 align="center">📱 Building Scalable Mobile Apps | 🚀 9+ Years Experience</h3>
+<h3 align="center">📱 Building Scalable, Reliable Mobile Systems | 🚀 9+ Years Experience</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Senior Android Engineer with **9+ years experience**
-- 📱 Expert in **Kotlin, Jetpack Compose & Flutter**
-- 🧠 Strong in **Clean Architecture & scalable systems**
-- ⚡ Boosted app performance & reduced crashes significantly
-- 🤖 Built **AI-powered CI/CD tools**
+- 💼 Senior Android Engineer with **9+ years building production-grade mobile systems**
+- 📱 Specialized in **Kotlin, Jetpack Compose & Flutter**
+- 🧠 Strong focus on **Clean Architecture, scalability & maintainability**
+- ⚡ Improved **app stability (72% crash reduction)** and performance
+- 🤖 Built **AI-powered CI/CD tooling** to improve engineering efficiency
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔭 Working on **high-scale banking applications**
-- 🌱 Deep diving into **Flutter & cross-platform**
-- ⚙️ Improving **developer productivity with AI tools**
+- 🔭 Developing **high-scale banking applications used across global markets**
+- 🌱 Expanding expertise in **Flutter & cross-platform architecture**
+- ⚙️ Building **developer productivity tools (AI + automation)**
+- 🧩 Designing **modular, multi-repo scalable systems**
 
 ---
 
@@ -39,7 +40,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 🧱 Architecture  
-`MVVM` `MVI` `MVP` `Clean Architecture` `Bloc` `Provider`
+`MVVM` `MVI` `Clean Architecture` `Multi-Module` `Bloc` `Provider`
 
 ### ⚙️ Tools  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
@@ -54,11 +55,11 @@
 
 ## 📈 Achievements
 
-- 📉 Reduced crash rate by **72%**
-- ⚡ Improved startup performance by **16%**
-- 🔄 Reduced API usage by **28%**
-- 🤖 AI-based MR review system → **30% less manual effort**
-- 🌍 Worked on apps used across **global markets**
+- 📉 Reduced production crash rate by **72%** using lifecycle-aware architecture & monitoring  
+- ⚡ Improved cold start performance by **16%** via dependency and rendering optimizations  
+- 🔄 Reduced redundant API calls by **28%** using Room + in-memory caching strategies  
+- 🤖 Built AI-based MR review system → **30% reduction in manual review effort**  
+- 🌍 Delivered features across **global banking apps (50+ markets, high-scale users)**  
 
 ---
 
@@ -71,19 +72,14 @@
 
 ---
 
-## 🧠 Top Skills
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiran7007&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📂 Featured Projects
 
-- 🏦 **Banking Apps** → Secure, scalable, global users  
-- 🏥 **Healthcare Apps** → Real-time tracking, offline-first  
-- 🛒 **Flutter E-Commerce App** → Cross-platform  
+- 🏦 **Banking Platforms**  
+  → Secure authentication, payments & dashboards at global scale  
+- 🏥 **Healthcare Systems**  
+  → Real-time tracking, geofencing, offline-first architecture (99.9% sync reliability)  
+- 🛒 **Flutter E-Commerce App**  
+  → Cross-platform (Android + Web) with scalable state management  
 
 ---
 
@@ -106,11 +102,11 @@
 ## ⚡ Fun Zone
 
 <p align="center">
-  💡 I love optimizing apps so much that even milliseconds matter 😄
+  💡 I care about performance so much that even **milliseconds are measurable impact** 😄
 </p>
 
 ---
 
 <p align="center">
-  🔥 <b>Code • Optimize • Scale • Repeat</b> 🔥
+  🔥 <b>Build • Optimize • Scale • Repeat</b> 🔥
 </p>
