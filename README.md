@@ -63,15 +63,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kiran7007&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiran7007&theme=tokyonight" />
-</p>
-
----
-
 ## 📂 Featured Projects
 
 - 🏦 **Banking Platforms**  
